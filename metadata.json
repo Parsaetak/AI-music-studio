@@ -1,0 +1,7 @@
+{
+  "name": "AI Music Studio",
+  "description": "An all-in-one AI-powered application to generate complete musical packages. From lyrics, the app creates vocal tracks, cover art, and music videos using a suite of Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
